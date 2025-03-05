@@ -26,12 +26,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 ## Usage
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
+1. Clone the repository
 
 2. Open the Jupyter Notebook:
 
@@ -45,11 +40,4 @@ jupyter notebook Classification.ipynb
 
 The notebook provides accuracy scores, confusion matrices, and visualizations to analyze model performance.
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests with improvements.
-
-## License
-
-This project is licensed under the MIT License.
 
